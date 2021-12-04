@@ -1,4 +1,4 @@
-# Yet another Pi-hole list
+# Yet another Pi-hole list (Originally by JavanXD, Modified by i506dk)
 
 > Actually this project is not 'yet another'. I tried to improve what other projects missed. Also added an auto updater.
 
